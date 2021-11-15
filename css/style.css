@@ -1,0 +1,50 @@
+body {
+	background-color: #f5f5f5;
+}
+
+/* элементы формы */
+
+/*.inputDate {
+    padding: 0 10px;
+}*/
+.button {
+	color: #ffffff;
+	background-color: #02af7e;
+	border-color: #015f45;
+}
+.error {
+    color: #b70000;
+    margin-top: 5px;
+    display: none;
+}
+.sf {
+	display: none;
+	text-align: center;
+}
+
+/* элементы панели */
+
+.panel {
+	border-radius: 12px;
+}
+
+.title_h3 {
+	font-weight: 400;
+	text-align: center;
+	color: white;
+    font-size: 22px;
+}
+.custom {
+	background-color: #02af7e !important;
+	border-top-left-radius: 12px;
+	border-top-right-radius: 12px;
+}
+.block {
+	margin-top: 30px;
+	box-shadow: 0 0 14px rgba(0,0,0,0.1), 0 0 10px rgba(0,0,0,0.1);
+}
+/* элементы таблицы */
+
+.table tr th, tr td {
+	text-align: center;
+}
